@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/googleapis/python-managed-identities/compare/v1.3.1...v1.4.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#103](https://github.com/googleapis/python-managed-identities/issues/103)) ([91b316a](https://github.com/googleapis/python-managed-identities/commit/91b316a5da34c8ecec852d811c2e7a9bd5254379))
+
 ### [1.3.1](https://www.github.com/googleapis/python-managed-identities/compare/v1.3.0...v1.3.1) (2021-11-01)
 
 
